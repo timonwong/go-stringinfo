@@ -1,2 +1,2 @@
-gostringinfo
+go-stringinfo
 ============
